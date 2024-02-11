@@ -1,16 +1,16 @@
-title:              Clean Blog
+title:              Dev Blog by bertaye
 email:              bertayeren@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/bertaye-clean-blog-jekyll"
+description:        
+author:             Bertay Eren
+baseurl:            ""
 url:                "https://bertaye.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   
 github_username:    bertaye
-facebook_username:  StartBootstrap
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: 
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
